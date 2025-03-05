@@ -87,3 +87,7 @@ This project explores breast cancer classification using **Decision Tree** and *
 
 ---
 
+## 📬 Contact
+For inquiries or collaboration, feel free to reach out:
+- **Email:** [lollordp@gmail.com](mailto:lollordp@gmail.com)
+- **LinkedIn:** [Lorenzo Rossi](https://www.linkedin.com/in/lorenzo-rossi01/)
